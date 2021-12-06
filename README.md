@@ -25,6 +25,7 @@
 
   - Estos 3 hooks pertenecen a react-router-dom, nos permiten acceder a los params, location e historial sin necesidad de mover las props desde las rutas.
 
-###
+### Otros hooks interesantes
 
-  Otros hooks interesantes: *useContext*, *useRef*.
+  *useContext* permite crear un estado "global".
+  *useRef* permite crear referencias inmutables entre renders.
